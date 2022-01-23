@@ -1,1 +1,1 @@
-# LC
+# Leetcode solving
